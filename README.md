@@ -77,3 +77,21 @@ Drug classification with various machine learning models project
 </table>
 
 ---
+## Model Accuracy Comparison
+
+Below is the comparison of accuracy scores for various models used in the project:
+
+| Model                | Accuracy (%) |
+|----------------------|--------------|
+| Logistic Regression  | 85.00        |
+| K Neighbors          | 85.00        |
+| K Neighbors Max      | 83.33        |
+| SVM                  | 83.33        |
+| Categorical NB       | 81.66        |
+| Gaussian NB          | 81.66        |
+| Decision Tree        | 81.66        |
+| Decision Tree Max    | 80.00        |
+| Random Forest        | 66.66        |
+| Random Forest Max    | 56.66        |
+
+**Note:** The highest accuracy was obtained using the **Logistic Regression** model.
