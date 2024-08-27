@@ -9,11 +9,11 @@ Drug classification with various machine learning models project
 ---
 
 ## Objectives of Project 📌
-👉 **This Project aims to:**
+  **This Project aims to:**
 *   Dataset exploration using various types of data visualization.
 *   Build various ML models that can predict drug type.
 
-👨‍💻 **The machine learning models used in this project are:** 
+  **The machine learning models used in this project are:** 
 1. Linear Logistic Regression
 2. Linear Support Vector Machine (SVM)
 3. K Neighbours
@@ -23,15 +23,15 @@ Drug classification with various machine learning models project
 
 ---
 
-## Data Set Description 🧾
+## Data Set Description 
 
-👉 There are **6 variables** in this data set:
+  There are **6 variables** in this data set:
 *   **4 categorical** variables,and
 *   **2 continuous** variables.
 
 <br>
 
-👉 The following is the **structure of the data set**.
+  The following is the **structure of the data set**.
 
 
 <table style="width:100%">
