@@ -1,15 +1,15 @@
 # Drug-Classification-Machine-Learning-model
 Drug classification with various machine learning models project
-# 1. Introduction 👋
+# 1. Introduction 
 <center><img src="https://images.pexels.com/photos/159211/headache-pain-pills-medication-159211.jpeg" alt="Drug Picture" width="700" height="700"></center><br>
 
-## Data Set Problems 🤔
-👉 This dataset contains information about drug classification based on patient general information and its diagnosis. Machine learning model is needed in order **to predict the outcome of the drugs type** that might be suitable for the patient.
+## Data Set Problems 
+*1. This dataset contains information about drug classification based on patient general information and its diagnosis. Machine learning model is needed in order **to predict the outcome of the drugs type** that might be suitable for the patient.
 
 ---
 
-## Objectives of Notebook 📌
-👉 **This notebook aims to:**
+## Objectives of Project 📌
+👉 **This Project aims to:**
 *   Dataset exploration using various types of data visualization.
 *   Build various ML models that can predict drug type.
 
